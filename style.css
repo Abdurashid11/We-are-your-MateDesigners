@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+.dad{
+    width: Fixed (1,440px)px;
+    height: Hug (70px)px;
+    padding: 15px 100px 15px 100px;
+    gap: 5px;
+    background-color: black;
+}
+.li{
+    color: white;
+    display: flex;
+    justify-content: end;
+    gap: 20px ;
+    font-family: inter;
+}
+.box{
+    font-family: Inter;
+    width: 743px;
+    height: 186px;
+    top: 184px;
+    left: 349px;
+    display: flex;
+    justify-content: end;
+    text-align: center;
+}
+.card{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 23px;
+    margin: 0 24px;
+}
+.boy1{
+    width: 393px;
+    height: 230px;
+    border-radius: 20px 20px 20px 20px;
+}
+.bob{
+    width: Fixed (1,440px)px;
+    height: Hug (70px)px;
+    padding: 15px 100px 15px 100px;
+    gap: 5px;
+    background-color: black;
+}
+.cart{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 23px;
+    margin: 0 24px;
+}
